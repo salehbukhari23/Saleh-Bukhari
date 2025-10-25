@@ -1,5 +1,3 @@
-# Saleh-Bukhari
-Hello World, This is my profile.
 <h1 align="center">Hi 👋, I'm Syed Muhammad Saleh Bukhari</h1>
 <h3 align="center">A student at University of Engineering and Technology</h3>
 
